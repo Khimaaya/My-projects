@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 400px;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: cyan;
+}
+
+#chat {
+    width: 100%;
+    height: 800px;
+    background-color: darkturquoise;
+}
+
+.line {
+    height: 6px;
+    background-color: aquamarine;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#myCarousel {
+    background-color:blue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 39px;
+}
+
+.carousel-inner p {
+    color:black;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
